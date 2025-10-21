@@ -2,7 +2,7 @@
 
 Sikker-Transkribent er et brugervenligt GUI-program, der transskriberer lydfiler til tekst ved hjælp af **Whisper**-modeller. Programmet understøtter batch-transskription, viser fremdrift og giver mulighed for at stoppe processen undervejs.
 
-![GUI eksempel](screenshots\GUI.png)
+![GUI eksempel](screenshots/GUI.png)
 
 
 ---

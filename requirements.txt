@@ -1,0 +1,8 @@
+faster-whisper==1.2.0
+numpy==2.3.4
+scipy==1.16.2
+scikit-learn==1.7.2
+pydub==0.25.1
+tqdm==4.67.1
+soundfile==0.13.1
+wakepy==0.10.2.post1
